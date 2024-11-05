@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/automl/automl.py
+src/automl/datasets.py
+src/automl/dummy_model.py
+src/automl/utils.py
+src/automl.egg-info/PKG-INFO
+src/automl.egg-info/SOURCES.txt
+src/automl.egg-info/dependency_links.txt
+src/automl.egg-info/requires.txt
+src/automl.egg-info/top_level.txt
